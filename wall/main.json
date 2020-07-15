@@ -1,0 +1,17 @@
+{ 
+  "downloadLink" : "https://www.youtube.com/",
+  "ver1" : {
+    "ProgramIsActive": true,
+    "showMessage": false,
+    "message": "Hello, this is admin message!",
+    "openURL": false,
+    "URL": "https://hilebol.online/"
+  },
+  "ver2" : {
+    "ProgramIsActive": true,
+    "showMessage": false,
+    "message": "Hello, this is admin message!",
+    "openURL": false,
+    "URL": "https://hilebol.online/"
+  }
+}
