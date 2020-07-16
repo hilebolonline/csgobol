@@ -2,7 +2,7 @@
   "guncelSurum" : "1.0.0",
   "root" : {
     "ProgramIsActive": false,
-    "showMessage": false,
+    "showMessage": true,
     "message": "Hello, this is admin message!",
     "openURL": false,
     "URL": "https://hilebol.online/"
@@ -11,7 +11,7 @@
     "ProgramIsActive": false,
     "showMessage": false,
     "message": "Hello, this is admin message!",
-    "openURL": false,
+    "openURL": true,
     "URL": "https://hilebol.online/"
   },
   "v1dot1" : {
