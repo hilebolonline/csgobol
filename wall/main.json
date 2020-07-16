@@ -1,5 +1,5 @@
 { 
-  "guncelSurum" : "https://www.youtube.com/",
+  "guncelSurum" : "1.0.0",
   "root" : {
     "ProgramIsActive": true,
     "showMessage": false,
