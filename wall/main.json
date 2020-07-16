@@ -8,7 +8,7 @@
     "URL": "https://hilebol.online/"
   },
   "v1dot0" : {
-    "ProgramIsActive": true,
+    "ProgramIsActive": false,
     "showMessage": false,
     "message": "Hello, this is admin message!",
     "openURL": false,
