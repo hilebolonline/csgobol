@@ -1,7 +1,7 @@
 { 
   "guncelSurum" : "1.0.0",
   "root" : {
-    "ProgramIsActive": true,
+    "ProgramIsActive": false,
     "showMessage": false,
     "message": "Hello, this is admin message!",
     "openURL": false,
