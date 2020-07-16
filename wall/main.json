@@ -1,5 +1,4 @@
 { 
-  "guncelSurum" : "1.0.0",
   "root" : {
     "ProgramIsActive": false,
     "showMessage": true,
