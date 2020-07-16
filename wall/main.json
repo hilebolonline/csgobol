@@ -7,14 +7,14 @@
     "openURL": false,
     "URL": "https://hilebol.online/"
   },
-  "v1.1" : {
+  "v1dot0" : {
     "ProgramIsActive": true,
     "showMessage": false,
     "message": "Hello, this is admin message!",
     "openURL": false,
     "URL": "https://hilebol.online/"
   },
-  "ver2" : {
+  "v1dot1" : {
     "ProgramIsActive": true,
     "showMessage": false,
     "message": "Hello, this is admin message!",
