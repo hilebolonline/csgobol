@@ -1,16 +1,16 @@
 { 
   "root" : {
     "ProgramIsActive": true,
-    "showMessage": true,
+    "showMessage": false,
     "message": "Hello, this is admin message!",
-    "openURL": true,
+    "openURL": false,
     "URL": "https://github.com/"
   },
   "v15" : {
     "ProgramIsActive": true,
-    "showMessage": true,
+    "showMessage": false,
     "message": "Hellooo!",
-    "openURL": true,
+    "openURL": false,
     "URL": "https://hilebol.online/"
   },
   "v1dot1" : {
