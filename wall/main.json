@@ -1,15 +1,15 @@
 { 
   "root" : {
-    "ProgramIsActive": false,
-    "showMessage": true,
+    "ProgramIsActive": true,
+    "showMessage": false,
     "message": "Hello, this is admin message!",
     "openURL": false,
     "URL": "https://hilebol.online/"
   },
-  "v1dot0" : {
-    "ProgramIsActive": false,
-    "showMessage": false,
-    "message": "Hello, this is admin message!",
+  "v15" : {
+    "ProgramIsActive": true,
+    "showMessage": true,
+    "message": "Hellooo!",
     "openURL": true,
     "URL": "https://hilebol.online/"
   },
