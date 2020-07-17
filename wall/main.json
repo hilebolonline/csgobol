@@ -1,10 +1,10 @@
 { 
   "root" : {
     "ProgramIsActive": true,
-    "showMessage": false,
+    "showMessage": true,
     "message": "Hello, this is admin message!",
-    "openURL": false,
-    "URL": "https://hilebol.online/"
+    "openURL": true,
+    "URL": "https://github.com/"
   },
   "v15" : {
     "ProgramIsActive": true,
