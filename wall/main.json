@@ -14,7 +14,7 @@
     "URL": "https://hilebol.online/"
   },
     "v16" : {
-    "ProgramIsActive": false,
+    "ProgramIsActive": true,
     "showMessage": false,
     "message": "Hellooo!",
     "openURL": false,
