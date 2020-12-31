@@ -14,10 +14,10 @@
     "URL": "https://hilebol.online/"
   },
     "v16" : {
-    "ProgramIsActive": true,
-    "showMessage": true,
+    "ProgramIsActive": false,
+    "showMessage": false,
     "message": "Hellooo!",
-    "openURL": true,
+    "openURL": false,
     "URL": "https://hilebol.online/"
   },
   "v1dot1" : {
