@@ -15,9 +15,9 @@
   },
     "v16" : {
     "ProgramIsActive": true,
-    "showMessage": false,
+    "showMessage": true,
     "message": "Hellooo!",
-    "openURL": false,
+    "openURL": true,
     "URL": "https://hilebol.online/"
   },
   "v1dot1" : {
