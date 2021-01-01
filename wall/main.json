@@ -34,6 +34,13 @@
     "openURL": false,
     "URL": "https://hilebol.online/"
   },
+    "v16.0.3" : {
+    "ProgramIsActive": true,
+    "showMessage": false,
+    "message": "Hellooo!",
+    "openURL": false,
+    "URL": "https://hilebol.online/"
+  },
   "v1dot1" : {
     "ProgramIsActive": true,
     "showMessage": false,
