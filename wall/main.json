@@ -43,9 +43,9 @@
   },
     "v16.0.4" : {
     "ProgramIsActive": true,
-    "showMessage": true,
-    "message": "Selam! İnstagram sayfamızda başlattığımız 3 farklı oyun çekilişine; sayfamızı takip edip, son paylaşımı beğenerek katılım sağlayabilirsiniz. Sonuç 24 saat sonra açıklanacaktır.",
-    "openURL": true,
+    "showMessage": false,
+    "message": "Selam! ",
+    "openURL": false,
     "URL": "https://www.instagram.com/hilebol_/"
   },
   "v1dot1" : {
